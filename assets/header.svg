@@ -5,6 +5,51 @@
   xmlns="http://www.w3.org/2000/svg"
 >
 
+  <style>
+    .fade-in {
+      opacity: 0;
+      animation: fadeIn 1.2s ease forwards;
+    }
+
+    .fade-in-delay {
+      opacity: 0;
+      animation: fadeIn 1.2s ease 0.5s forwards;
+    }
+
+    .fade-in-delay-2 {
+      opacity: 0;
+      animation: fadeIn 1.2s ease 1s forwards;
+    }
+
+    .cursor {
+      animation: blink 1s steps(1) infinite;
+    }
+
+    @keyframes fadeIn {
+      from {
+        opacity: 0;
+        transform: translateY(6px);
+      }
+
+      to {
+        opacity: 1;
+        transform: translateY(0);
+      }
+    }
+
+    @keyframes blink {
+      0%, 50% {
+        opacity: 1;
+      }
+
+      51%, 100% {
+        opacity: 0;
+      }
+    }
+  </style>
+
+  <!-- Background -->
+
   <rect
     x="1"
     y="1"
@@ -38,6 +83,7 @@
   <!-- Name -->
 
   <text
+    class="fade-in"
     x="500"
     y="88"
     text-anchor="middle"
@@ -53,6 +99,7 @@
   <!-- Role -->
 
   <text
+    class="fade-in-delay"
     x="500"
     y="120"
     text-anchor="middle"
@@ -66,15 +113,29 @@
 
   <!-- Command -->
 
-  <text
-    x="500"
-    y="157"
-    text-anchor="middle"
-    fill="#8B949E"
-    font-family="monospace"
-    font-size="15"
-  >
-    &gt; building things with code_
-  </text>
+  <g class="fade-in-delay-2">
+
+    <text
+      x="488"
+      y="157"
+      text-anchor="middle"
+      fill="#8B949E"
+      font-family="monospace"
+      font-size="15"
+    >
+      &gt; building things with code
+    </text>
+
+    <rect
+      class="cursor"
+      x="610"
+      y="144"
+      width="8"
+      height="17"
+      rx="1"
+      fill="#299452"
+    />
+
+  </g>
 
 </svg>
