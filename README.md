@@ -201,9 +201,15 @@ rotina();
 
 <div align="center">
 
+<p>
+  Um pouco da minha atividade e evolução através dos meus projetos no GitHub.
+</p>
+
+<br>
+
 <img
   width="49%"
-  src="https://github-readme-stats.vercel.app/api?username=TrashYukon9&show_icons=true&hide_border=true&bg_color=0D1117&title_color=299452&icon_color=299452&text_color=FFFFFF&ring_color=299452&locale=pt-br"
+  src="https://github-readme-stats.vercel.app/api?username=TrashYukon9&show_icons=true&hide_border=true&bg_color=0D1117&title_color=299452&icon_color=299452&text_color=FFFFFF&ring_color=299452&locale=pt-br&include_all_commits=true"
   alt="Estatísticas do GitHub"
 />
 
@@ -218,8 +224,14 @@ rotina();
 <img
   width="60%"
   src="https://streak-stats.demolab.com?user=TrashYukon9&theme=dark&hide_border=true&background=0D1117&ring=299452&fire=299452&currStreakLabel=299452&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E"
-  alt="GitHub Streak"
+  alt="Sequência de contribuições"
 />
+
+<br><br>
+
+<sub>
+  <code>commits • projetos • aprendizado • evolução</code>
+</sub>
 
 </div>
 
