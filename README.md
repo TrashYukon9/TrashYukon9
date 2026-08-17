@@ -22,15 +22,15 @@
 <br><br>
 
 <a href="https://trashyukon9.github.io/DanielWn.site/">
-  <img src="https://img.shields.io/badge/PORTFÓLIO-0D1117?style=for-the-badge&logo=githubpages&logoColor=299452">
+  <img src="https://img.shields.io/badge/PORTFÓLIO-0D1117?style=for-the-badge&logo=githubpages&logoColor=299452" alt="Portfólio">
 </a>
 
 <a href="https://www.linkedin.com/in/winicius-daniel-89b4a7279/">
-  <img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=299452">
+  <img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=299452" alt="LinkedIn">
 </a>
 
 <a href="https://github.com/TrashYukon9">
-  <img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=299452">
+  <img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=299452" alt="GitHub">
 </a>
 
 <br><br>
@@ -45,7 +45,7 @@
 
 <br>
 
-## 👨‍💻 Sobre mim
+## `> sobre-mim`
 
 ```javascript
 const winicius = {
@@ -73,25 +73,36 @@ while (winicius.estáAprendendo) {
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+<br>
+
+## `> tecnologias`
 
 <div align="center">
 
-### 💻 Linguagens
+### `languages`
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,java&theme=dark" alt="Linguagens">
-
-<br><br>
-
-### ⚡ Frameworks & Bibliotecas
-
-<img src="https://skillicons.dev/icons?i=react,vite,bootstrap&theme=dark" alt="Frameworks e Bibliotecas">
+<img
+  src="https://skillicons.dev/icons?i=html,css,js,python,java&theme=dark"
+  alt="Linguagens"
+/>
 
 <br><br>
 
-### 🔧 Ferramentas
+### `frameworks & libraries`
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Ferramentas">
+<img
+  src="https://skillicons.dev/icons?i=react,vite,bootstrap&theme=dark"
+  alt="Frameworks e Bibliotecas"
+/>
+
+<br><br>
+
+### `tools`
+
+<img
+  src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark"
+  alt="Ferramentas"
+/>
 
 </div>
 
@@ -99,7 +110,9 @@ while (winicius.estáAprendendo) {
 
 ---
 
-## 🚀 Projetos em Destaque
+<br>
+
+## `> projetos`
 
 <div align="center">
 
@@ -122,11 +135,17 @@ while (winicius.estáAprendendo) {
 <br><br>
 
 <a href="https://trashyukon9.github.io/TodoList/">
-  <img src="https://img.shields.io/badge/Abrir%20Todo%20List-0D1117?style=for-the-badge&logo=react&logoColor=299452" alt="Abrir Todo List">
+  <img
+    src="https://img.shields.io/badge/Abrir%20Todo%20List-0D1117?style=for-the-badge&logo=react&logoColor=299452"
+    alt="Abrir Todo List"
+  >
 </a>
 
 <a href="https://trashyukon9.github.io/DanielWn.site/">
-  <img src="https://img.shields.io/badge/Abrir%20Portfólio-0D1117?style=for-the-badge&logo=githubpages&logoColor=299452" alt="Abrir Portfólio">
+  <img
+    src="https://img.shields.io/badge/Abrir%20Portfólio-0D1117?style=for-the-badge&logo=githubpages&logoColor=299452"
+    alt="Abrir Portfólio"
+  >
 </a>
 
 </div>
@@ -135,7 +154,9 @@ while (winicius.estáAprendendo) {
 
 ---
 
-## 📊 Estatísticas do GitHub
+<br>
+
+## `> github-stats`
 
 <div align="center">
 
@@ -165,7 +186,9 @@ while (winicius.estáAprendendo) {
 
 ---
 
-## 📈 Gráfico de Atividade
+<br>
+
+## `> atividade`
 
 <div align="center">
 
@@ -181,7 +204,9 @@ while (winicius.estáAprendendo) {
 
 ---
 
-## 🐍 Minhas Contribuições
+<br>
+
+## `> contribuicoes`
 
 <div align="center">
 
@@ -195,11 +220,10 @@ while (winicius.estáAprendendo) {
 <br>
 
 ---
-</div>
 
 <br>
 
-## 🌐 Vamos nos conectar?
+## `> contato`
 
 <div align="center">
 
@@ -210,15 +234,24 @@ while (winicius.estáAprendendo) {
 <br>
 
 <a href="https://www.linkedin.com/in/winicius-daniel-89b4a7279/">
-  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=299452" alt="LinkedIn">
+  <img
+    src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=299452"
+    alt="LinkedIn"
+  >
 </a>
 
 <a href="https://trashyukon9.github.io/DanielWn.site/">
-  <img src="https://img.shields.io/badge/Portfólio-0D1117?style=for-the-badge&logo=githubpages&logoColor=299452" alt="Portfólio">
+  <img
+    src="https://img.shields.io/badge/Portfólio-0D1117?style=for-the-badge&logo=githubpages&logoColor=299452"
+    alt="Portfólio"
+  >
 </a>
 
 <a href="https://instagram.com/tyk.daniwn">
-  <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=299452" alt="Instagram">
+  <img
+    src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=299452"
+    alt="Instagram"
+  >
 </a>
 
 <br><br>
@@ -230,7 +263,17 @@ while (winicius.estáAprendendo) {
 
 <br><br>
 
-<sub>💚 Desenvolvido por <strong>Winicius Daniel</strong></sub>
+<img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=rect&height=2&color=299452"
+  alt=""
+/>
+
+<br>
+
+<sub>
+  💚 Desenvolvido por <strong>Winicius Daniel</strong>
+</sub>
 
 <br><br>
 
