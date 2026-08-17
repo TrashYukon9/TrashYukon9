@@ -46,12 +46,14 @@
   />
 </a>
 
-</div>
+<br><br>
 
-<br>
+<img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=rect&height=2&color=299452"
+  alt=""
+/>
 
-<div align="center">
-  <img src="./assets/divider.svg" width="100%" alt="">
 </div>
 
 <br>
@@ -94,12 +96,14 @@ rotina();
   <code>curiosidade + prática + consistência = evolução</code>
 </sub>
 
-</div>
+<br><br>
 
-<br>
+<img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=rect&height=2&color=299452"
+  alt=""
+/>
 
-<div align="center">
-  <img src="./assets/divider.svg" width="100%" alt="">
 </div>
 
 <br>
@@ -133,12 +137,14 @@ rotina();
   alt="Ferramentas"
 />
 
-</div>
+<br><br>
 
-<br>
+<img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=rect&height=2&color=299452"
+  alt=""
+/>
 
-<div align="center">
-  <img src="./assets/divider.svg" width="100%" alt="">
 </div>
 
 <br>
@@ -191,12 +197,14 @@ rotina();
   <code>mais projetos em desenvolvimento...</code>
 </sub>
 
-</div>
+<br><br>
 
-<br>
+<img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=rect&height=2&color=299452"
+  alt=""
+/>
 
-<div align="center">
-  <img src="./assets/divider.svg" width="100%" alt="">
 </div>
 
 <br>
@@ -237,12 +245,14 @@ rotina();
   <code>commits • projetos • aprendizado • evolução</code>
 </sub>
 
-</div>
+<br><br>
 
-<br>
+<img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=rect&height=2&color=299452"
+  alt=""
+/>
 
-<div align="center">
-  <img src="./assets/divider.svg" width="100%" alt="">
 </div>
 
 <br>
@@ -269,12 +279,14 @@ rotina();
   <code>cada commit é um passo a mais.</code>
 </sub>
 
-</div>
+<br><br>
 
-<br>
+<img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=rect&height=2&color=299452"
+  alt=""
+/>
 
-<div align="center">
-  <img src="./assets/divider.svg" width="100%" alt="">
 </div>
 
 <br>
@@ -312,12 +324,14 @@ rotina();
   <code>construir • aprender • contribuir • repetir</code>
 </sub>
 
-</div>
+<br><br>
 
-<br>
+<img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=rect&height=2&color=299452"
+  alt=""
+/>
 
-<div align="center">
-  <img src="./assets/divider.svg" width="100%" alt="">
 </div>
 
 <br>
@@ -364,9 +378,11 @@ rotina();
 
 <br><br>
 
-<div align="center">
-  <img src="./assets/divider.svg" width="100%" alt="">
-</div>
+<img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=rect&height=2&color=299452"
+  alt=""
+/>
 
 <br>
 
