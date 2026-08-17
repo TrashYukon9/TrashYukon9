@@ -1,0 +1,168 @@
+<svg
+  width="1000"
+  height="220"
+  viewBox="0 0 1000 220"
+  xmlns="http://www.w3.org/2000/svg"
+>
+
+  <!-- Background -->
+  <rect
+    x="1"
+    y="1"
+    width="998"
+    height="218"
+    rx="14"
+    fill="#0D1117"
+    stroke="#1F6F43"
+    stroke-width="2"
+  />
+
+  <!-- Top bar -->
+  <rect
+    x="1"
+    y="1"
+    width="998"
+    height="46"
+    rx="14"
+    fill="#0A0F0C"
+  />
+
+  <!-- Fix top bar bottom corners -->
+  <rect
+    x="1"
+    y="30"
+    width="998"
+    height="17"
+    fill="#0A0F0C"
+  />
+
+  <!-- Terminal controls -->
+  <circle cx="28" cy="23" r="5" fill="#299452" opacity="0.30"/>
+  <circle cx="48" cy="23" r="5" fill="#299452" opacity="0.60"/>
+  <circle cx="68" cy="23" r="5" fill="#299452"/>
+
+  <!-- Path -->
+  <text
+    x="100"
+    y="28"
+    fill="#6E7681"
+    font-family="monospace"
+    font-size="13"
+  >
+    ~/github/profile
+  </text>
+
+  <!-- User -->
+  <text
+    x="965"
+    y="28"
+    text-anchor="end"
+    fill="#6E7681"
+    font-family="monospace"
+    font-size="13"
+  >
+    winicius@github
+  </text>
+
+  <!-- Left accent -->
+  <rect
+    x="42"
+    y="77"
+    width="4"
+    height="82"
+    rx="2"
+    fill="#299452"
+  />
+
+  <!-- Small command -->
+  <text
+    x="75"
+    y="88"
+    fill="#299452"
+    font-family="monospace"
+    font-size="13"
+  >
+    $ whoami
+  </text>
+
+  <!-- Name -->
+  <text
+    x="75"
+    y="130"
+    fill="#FFFFFF"
+    font-family="monospace"
+    font-size="36"
+    font-weight="bold"
+    letter-spacing="2"
+  >
+    WINICIUS DANIEL
+  </text>
+
+  <!-- Role -->
+  <text
+    x="75"
+    y="163"
+    fill="#8B949E"
+    font-family="monospace"
+    font-size="17"
+    letter-spacing="2"
+  >
+    SOFTWARE DEVELOPER
+  </text>
+
+  <!-- Right side info -->
+  <text
+    x="925"
+    y="98"
+    text-anchor="end"
+    fill="#6E7681"
+    font-family="monospace"
+    font-size="13"
+  >
+    stack:
+  </text>
+
+  <text
+    x="925"
+    y="122"
+    text-anchor="end"
+    fill="#299452"
+    font-family="monospace"
+    font-size="14"
+  >
+    React · JavaScript · Python · Java
+  </text>
+
+  <text
+    x="925"
+    y="154"
+    text-anchor="end"
+    fill="#6E7681"
+    font-family="monospace"
+    font-size="13"
+  >
+    status:
+  </text>
+
+  <text
+    x="925"
+    y="178"
+    text-anchor="end"
+    fill="#FFFFFF"
+    font-family="monospace"
+    font-size="14"
+  >
+    learning · building · evolving
+  </text>
+
+  <!-- Bottom detail -->
+  <rect
+    x="42"
+    y="190"
+    width="916"
+    height="1"
+    fill="#299452"
+    opacity="0.20"
+  />
+
+</svg>
