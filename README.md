@@ -41,57 +41,28 @@
 
 ---
 
-## Sobre mim
+## 👨‍💻 Sobre mim
 
 ```javascript
 const winicius = {
   localização: "São Paulo, Brasil",
-  área: "Desenvolvimento de Software",
   formação: "Ciência da Computação",
+  foco: "Desenvolvimento de Software",
+
+  tecnologias: ["JavaScript", "React", "Python", "Java"],
 
   interesses: [
     "Desenvolvimento Web",
     "Engenharia de Software",
-    "Desenvolvimento Front e Backend",
-    "Novas tecnologias"
+    "Backend"
   ],
 
-  estudandoAtualmente: [
-    "JavaScript",
-    "React",
-    "HTML e CSS",
-    "Python",
-    "Java"
-  ],
-
-  objetivo: "Evoluir como desenvolvedor e transformar ideias em código."
+  objetivo: "Transformar ideias em experiências através do código."
 };
 
-
-### 👨‍💻 Sobre mim
-
-```javascript
-const winicius = {
-  localização: "São Paulo, Brasil",
-  área: "Desenvolvimento de Software",
-  formação: "Ciência da Computação",
-
-  interesses: [
-    "Desenvolvimento Web",
-    "Engenharia de Software",
-    "Desenvolvimento Backend",
-    "Novas tecnologias"
-  ],
-
-  estudandoAtualmente: [
-    "JavaScript",
-    "React",
-    "Python",
-    "Java"
-  ],
-
-  objetivo: "Evoluir como desenvolvedor e transformar ideias em código."
-};
+while (winicius.estáAprendendo) {
+  winicius.evoluir();
+}
 
 <br>
 
