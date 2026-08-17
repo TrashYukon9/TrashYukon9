@@ -115,7 +115,7 @@ rotina();
   alt="Linguagens"
 />
 
-<br><br>
+<br>
 
 ### `frameworks & libraries`
 
@@ -124,7 +124,7 @@ rotina();
   alt="Frameworks e Bibliotecas"
 />
 
-<br><br>
+<br>
 
 ### `tools`
 
