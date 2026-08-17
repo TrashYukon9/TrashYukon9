@@ -39,13 +39,14 @@ const winicius = {
   interesses: [
     "Desenvolvimento Web",
     "Engenharia de Software",
-    "Desenvolvimento Backend",
+    "Desenvolvimento Front e Backend",
     "Novas tecnologias"
   ],
 
   estudandoAtualmente: [
     "JavaScript",
     "React",
+    "HTML e CSS",
     "Python",
     "Java"
   ],
