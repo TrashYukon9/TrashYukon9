@@ -1,141 +1,168 @@
 <svg
   width="1000"
-  height="190"
-  viewBox="0 0 1000 190"
+  height="220"
+  viewBox="0 0 1000 220"
   xmlns="http://www.w3.org/2000/svg"
 >
 
-  <style>
-    .fade-in {
-      opacity: 0;
-      animation: fadeIn 1.2s ease forwards;
-    }
-
-    .fade-in-delay {
-      opacity: 0;
-      animation: fadeIn 1.2s ease 0.5s forwards;
-    }
-
-    .fade-in-delay-2 {
-      opacity: 0;
-      animation: fadeIn 1.2s ease 1s forwards;
-    }
-
-    .cursor {
-      animation: blink 1s steps(1) infinite;
-    }
-
-    @keyframes fadeIn {
-      from {
-        opacity: 0;
-        transform: translateY(6px);
-      }
-
-      to {
-        opacity: 1;
-        transform: translateY(0);
-      }
-    }
-
-    @keyframes blink {
-      0%, 50% {
-        opacity: 1;
-      }
-
-      51%, 100% {
-        opacity: 0;
-      }
-    }
-  </style>
-
   <!-- Background -->
-
   <rect
     x="1"
     y="1"
     width="998"
-    height="188"
-    rx="12"
+    height="218"
+    rx="14"
     fill="#0D1117"
-    stroke="#299452"
+    stroke="#1F6F43"
     stroke-width="2"
   />
 
+  <!-- Top bar -->
+  <rect
+    x="1"
+    y="1"
+    width="998"
+    height="46"
+    rx="14"
+    fill="#0A0F0C"
+  />
+
+  <!-- Fix top bar bottom corners -->
+  <rect
+    x="1"
+    y="30"
+    width="998"
+    height="17"
+    fill="#0A0F0C"
+  />
+
   <!-- Terminal controls -->
+  <circle cx="28" cy="23" r="5" fill="#299452" opacity="0.30"/>
+  <circle cx="48" cy="23" r="5" fill="#299452" opacity="0.60"/>
+  <circle cx="68" cy="23" r="5" fill="#299452"/>
 
-  <circle cx="30" cy="25" r="5" fill="#299452" opacity="0.35"/>
-  <circle cx="50" cy="25" r="5" fill="#299452" opacity="0.65"/>
-  <circle cx="70" cy="25" r="5" fill="#299452"/>
+  <!-- Path -->
+  <text
+    x="100"
+    y="28"
+    fill="#6E7681"
+    font-family="monospace"
+    font-size="13"
+  >
+    ~/github/profile
+  </text>
 
-  <!-- Terminal title -->
-
+  <!-- User -->
   <text
     x="965"
-    y="30"
+    y="28"
     text-anchor="end"
-    fill="#8B949E"
+    fill="#6E7681"
     font-family="monospace"
-    font-size="14"
+    font-size="13"
   >
     winicius@github
   </text>
 
-  <!-- Name -->
+  <!-- Left accent -->
+  <rect
+    x="42"
+    y="77"
+    width="4"
+    height="82"
+    rx="2"
+    fill="#299452"
+  />
 
+  <!-- Small command -->
   <text
-    class="fade-in"
-    x="500"
+    x="75"
     y="88"
-    text-anchor="middle"
+    fill="#299452"
+    font-family="monospace"
+    font-size="13"
+  >
+    $ whoami
+  </text>
+
+  <!-- Name -->
+  <text
+    x="75"
+    y="130"
     fill="#FFFFFF"
     font-family="monospace"
-    font-size="34"
+    font-size="36"
     font-weight="bold"
-    letter-spacing="3"
+    letter-spacing="2"
   >
     WINICIUS DANIEL
   </text>
 
   <!-- Role -->
-
   <text
-    class="fade-in-delay"
-    x="500"
-    y="120"
-    text-anchor="middle"
-    fill="#299452"
+    x="75"
+    y="163"
+    fill="#8B949E"
     font-family="monospace"
     font-size="17"
-    letter-spacing="4"
+    letter-spacing="2"
   >
     SOFTWARE DEVELOPER
   </text>
 
-  <!-- Command -->
+  <!-- Right side info -->
+  <text
+    x="925"
+    y="98"
+    text-anchor="end"
+    fill="#6E7681"
+    font-family="monospace"
+    font-size="13"
+  >
+    stack:
+  </text>
 
-  <g class="fade-in-delay-2">
+  <text
+    x="925"
+    y="122"
+    text-anchor="end"
+    fill="#299452"
+    font-family="monospace"
+    font-size="14"
+  >
+    React · JavaScript · Python · Java
+  </text>
 
-    <text
-      x="488"
-      y="157"
-      text-anchor="middle"
-      fill="#8B949E"
-      font-family="monospace"
-      font-size="15"
-    >
-      &gt; building things with code
-    </text>
+  <text
+    x="925"
+    y="154"
+    text-anchor="end"
+    fill="#6E7681"
+    font-family="monospace"
+    font-size="13"
+  >
+    status:
+  </text>
 
-    <rect
-      class="cursor"
-      x="610"
-      y="144"
-      width="8"
-      height="17"
-      rx="1"
-      fill="#299452"
-    />
+  <text
+    x="925"
+    y="178"
+    text-anchor="end"
+    fill="#FFFFFF"
+    font-family="monospace"
+    font-size="14"
+  >
+    learning · building · evolving
+  </text>
 
-  </g>
+  <!-- Bottom detail -->
+  <rect
+    x="42"
+    y="190"
+    width="916"
+    height="1"
+    fill="#299452"
+    opacity="0.20"
+  />
 
 </svg>
