@@ -315,28 +315,32 @@ rotina();
 <div align="center">
 
 <p>
-  Estou sempre aberto a novas conexões, projetos e oportunidades na área de tecnologia.
+  Vamos construir algo juntos?
+</p>
+
+<p>
+  Estou aberto a novas conexões, projetos e oportunidades na área de tecnologia.
 </p>
 
 <br>
 
 <a href="https://www.linkedin.com/in/winicius-daniel-89b4a7279/">
   <img
-    src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=299452"
+    src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=299452"
     alt="LinkedIn"
   >
 </a>
 
 <a href="https://trashyukon9.github.io/DanielWn.site/">
   <img
-    src="https://img.shields.io/badge/Portfólio-0D1117?style=for-the-badge&logo=githubpages&logoColor=299452"
+    src="https://img.shields.io/badge=PORTFÓLIO-0D1117?style=for-the-badge&logo=githubpages&logoColor=299452"
     alt="Portfólio"
   >
 </a>
 
 <a href="https://instagram.com/tyk.daniwn">
   <img
-    src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=299452"
+    src="https://img.shields.io/badge/INSTAGRAM-0D1117?style=for-the-badge&logo=instagram&logoColor=299452"
     alt="Instagram"
   >
 </a>
@@ -348,7 +352,7 @@ rotina();
   alt="Visualizações do perfil"
 />
 
-<br><br>
+<br><br><br>
 
 <img
   width="100%"
@@ -359,13 +363,13 @@ rotina();
 <br>
 
 <sub>
-  💚 Desenvolvido por <strong>Winicius Daniel</strong>
+  <code>$ echo "Sempre aprendendo. Sempre evoluindo."</code>
 </sub>
 
 <br><br>
 
 <sub>
-  <code>while (alive) { learn(); code(); improve(); }</code>
+  Desenvolvido por <strong>Winicius Daniel</strong>
 </sub>
 
 </div>
