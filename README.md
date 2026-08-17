@@ -28,7 +28,7 @@
 
 ---
 
-## 👨‍💻 Sobre mim
+## Sobre mim
 
 ```javascript
 const winicius = {
@@ -78,3 +78,29 @@ const winicius = {
 
   objetivo: "Evoluir como desenvolvedor e transformar ideias em código."
 };
+
+<br>
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
+
+<div align="center">
+
+### 💻 Linguagens
+
+<img src="https://skillicons.dev/icons?i=html,css,js,python,java&theme=dark" />
+
+<br><br>
+
+### ⚡ Frameworks & Bibliotecas
+
+<img src="https://skillicons.dev/icons?i=react,vite,bootstrap&theme=dark" />
+
+<br><br>
+
+### 🔧 Ferramentas
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+
+</div>
