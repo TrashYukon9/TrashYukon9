@@ -47,8 +47,6 @@
 
 ## 👨‍💻 Sobre mim
 
-## 👨‍💻 Sobre mim
-
 ```javascript
 const winicius = {
   localização: "São Paulo, Brasil",
