@@ -143,6 +143,12 @@ rotina();
 
 ## `> projetos`
 
+<p>
+  Alguns projetos que desenvolvi para colocar meus conhecimentos em prática.
+</p>
+
+<br>
+
 <div align="center">
 
 <a href="https://github.com/TrashYukon9/TodoList">
@@ -165,17 +171,23 @@ rotina();
 
 <a href="https://trashyukon9.github.io/TodoList/">
   <img
-    src="https://img.shields.io/badge/Abrir%20Todo%20List-0D1117?style=for-the-badge&logo=react&logoColor=299452"
+    src="https://img.shields.io/badge/TODO%20LIST-0D1117?style=for-the-badge&logo=react&logoColor=299452"
     alt="Abrir Todo List"
-  >
+  />
 </a>
 
 <a href="https://trashyukon9.github.io/DanielWn.site/">
   <img
-    src="https://img.shields.io/badge/Abrir%20Portfólio-0D1117?style=for-the-badge&logo=githubpages&logoColor=299452"
+    src="https://img.shields.io/badge/PORTFÓLIO-0D1117?style=for-the-badge&logo=githubpages&logoColor=299452"
     alt="Abrir Portfólio"
-  >
+  />
 </a>
+
+<br><br>
+
+<sub>
+  <code>mais projetos em desenvolvimento...</code>
+</sub>
 
 </div>
 
