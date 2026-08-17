@@ -1,11 +1,11 @@
 <div align="center">
 
-# 👋 Olá! Eu sou Winicius Daniel
+# Olá! Eu sou Winicius Daniel
 
 ### Desenvolvedor de Software
 
 <p>
-  Estudante e desenvolvedor apaixonado por tecnologia, programação e criação de aplicações.
+  Estudante e desenvolvedor, focado em programação e criação de aplicações.
 </p>
 
 <p>
