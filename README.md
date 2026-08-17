@@ -166,7 +166,7 @@ rotina();
 <a href="https://github.com/TrashYukon9/TodoList">
   <img
     width="48%"
-    src="https://github-readme-stats.vercel.app/api/pin/?username=TrashYukon9&repo=TodoList&hide_border=true&bg_color=0D1117&title_color=299452&text_color=FFFFFF&icon_color=299452"
+    src="https://raw.githubusercontent.com/TrashYukon9/TrashYukon9/main/assets/project-todo.svg"
     alt="Todo List"
   />
 </a>
@@ -174,7 +174,7 @@ rotina();
 <a href="https://github.com/TrashYukon9/DanielWn.site">
   <img
     width="48%"
-    src="https://github-readme-stats.vercel.app/api/pin/?username=TrashYukon9&repo=DanielWn.site&hide_border=true&bg_color=0D1117&title_color=299452&text_color=FFFFFF&icon_color=299452"
+    src="https://raw.githubusercontent.com/TrashYukon9/TrashYukon9/main/assets/project-portfolio.svg"
     alt="Portfólio"
   />
 </a>
@@ -200,6 +200,8 @@ rotina();
 <sub>
   <code>mais projetos em desenvolvimento...</code>
 </sub>
+
+</div>
 
 <br><br>
 
