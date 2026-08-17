@@ -1,43 +1,51 @@
 <div align="center">
 
-# Olá! Eu sou Winicius Daniel
+<h1>Winicius Daniel</h1>
 
-### Desenvolvedor de Software
+<h3>Desenvolvedor de Software</h3>
 
 <p>
-  Desenvolvedor focado em criar aplicações modernas, funcionais e bem estruturadas.
+  Transformando ideias em aplicações modernas, funcionais e bem estruturadas.
 </p>
 
 <p>
-  Atualmente estudando <strong>Ciência da Computação</strong> e aprofundando meus conhecimentos em desenvolvimento Web e Software.
+  🎓 Ciência da Computação &nbsp; • &nbsp; 💻 Desenvolvimento de Software &nbsp; • &nbsp; 📍 São Paulo, Brasil
 </p>
 
 <br>
 
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=900&color=299452&center=true&vCenter=true&width=650&lines=Desenvolvedor+de+Software;React+%7C+JavaScript+%7C+Python+%7C+Java;Transformando+ideias+em+código;Sempre+aprendendo.+Sempre+evoluindo."
+  alt="Typing SVG"
+/>
+
+<br><br>
+
 <a href="https://trashyukon9.github.io/DanielWn.site/">
-  <img src="https://img.shields.io/badge/Portfólio-0D1117?style=for-the-badge&logo=githubpages&logoColor=299452" alt="Portfólio">
+  <img src="https://img.shields.io/badge/PORTFÓLIO-0D1117?style=for-the-badge&logo=githubpages&logoColor=299452">
 </a>
 
 <a href="https://www.linkedin.com/in/winicius-daniel-89b4a7279/">
-  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=299452" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=299452">
 </a>
 
 <a href="https://github.com/TrashYukon9">
-  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=299452" alt="GitHub">
+  <img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=299452">
 </a>
 
 <br><br>
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=299452&center=true&vCenter=true&width=500&lines=Desenvolvedor+de+Software;React+%7C+JavaScript+%7C+Python+%7C+Java;Sempre+aprendendo+e+criando"
-  alt="Typing SVG"
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=rect&height=2&color=299452"
+  alt=""
 />
 
 </div>
 
 <br>
 
----
+## 👨‍💻 Sobre mim
 
 ## 👨‍💻 Sobre mim
 
