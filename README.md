@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Olá! Eu sou Winicius Daniel
+# Olá! Eu sou Winicius Daniel
 
 ### Desenvolvedor de Software
 
