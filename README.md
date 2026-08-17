@@ -62,25 +62,41 @@
 
 ```javascript
 const winicius = {
+  nome: "Winicius Daniel",
   localização: "São Paulo, Brasil",
   formação: "Ciência da Computação",
-  foco: "Desenvolvimento de Software",
+  área: "Desenvolvimento de Software",
 
-  tecnologias: ["JavaScript", "React", "Python", "Java"],
+  atualmente: {
+    estudando: ["React", "JavaScript", "Python", "Java"],
+    explorando: ["Backend", "Engenharia de Software"],
+    construindo: "Projetos para evoluir como desenvolvedor"
+  },
 
   interesses: [
     "Desenvolvimento Web",
-    "Engenharia de Software",
-    "Backend"
-  ],
-
-  objetivo: "Transformar ideias em experiências através do código."
+    "Aplicações úteis",
+    "Interfaces modernas",
+    "Resolução de problemas"
+  ]
 };
 
-while (winicius.estáAprendendo) {
-  winicius.evoluir();
+function rotina() {
+  aprender();
+  construir();
+  melhorar();
 }
+
+rotina();
 ```
+
+<div align="center">
+
+<sub>
+  <code>curiosidade + prática + consistência = evolução</code>
+</sub>
+
+</div>
 
 <br>
 
