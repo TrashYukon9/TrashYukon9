@@ -263,24 +263,10 @@ rotina();
 <div align="center">
 
 <p>
-  Um pouco da minha atividade e evolução através dos meus projetos no GitHub.
+  Um pouco da minha atividade e consistência no GitHub.
 </p>
 
 <br>
-
-<img
-  width="49%"
-  src="https://github-readme-stats.vercel.app/api?username=TrashYukon9&show_icons=true&hide_border=true&bg_color=0D1117&title_color=299452&icon_color=299452&text_color=FFFFFF&ring_color=299452&locale=pt-br&include_all_commits=true"
-  alt="Estatísticas do GitHub"
-/>
-
-<img
-  width="41%"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrashYukon9&layout=compact&hide_border=true&bg_color=0D1117&title_color=299452&text_color=FFFFFF&locale=pt-br"
-  alt="Linguagens mais utilizadas"
-/>
-
-<br><br>
 
 <img
   width="60%"
