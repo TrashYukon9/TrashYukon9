@@ -5,32 +5,45 @@
 <h3>Desenvolvedor de Software</h3>
 
 <p>
-  Transformando ideias em aplicações modernas, funcionais e bem estruturadas.
-</p>
-
-<p>
-  🎓 Ciência da Computação &nbsp; • &nbsp; 💻 Desenvolvimento de Software &nbsp; • &nbsp; 📍 São Paulo, Brasil
+  🎓 Ciência da Computação &nbsp; • &nbsp;
+  💻 Desenvolvimento de Software &nbsp; • &nbsp;
+  📍 São Paulo, Brasil
 </p>
 
 <br>
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=900&color=299452&center=true&vCenter=true&width=650&lines=Desenvolvedor+de+Software;React+%7C+JavaScript+%7C+Python+%7C+Java;Transformando+ideias+em+código;Sempre+aprendendo.+Sempre+evoluindo."
-  alt="Typing SVG"
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2400&pause=800&color=299452&center=true&vCenter=true&width=650&lines=%24+whoami;Winicius+Daniel+-+Software+Developer;%24+stack+--current;React+%7C+JavaScript+%7C+Python+%7C+Java;%24+status;Sempre+aprendendo.+Sempre+evoluindo."
+  alt="Terminal typing animation"
 />
 
 <br><br>
 
+<p>
+  Transformando ideias em aplicações modernas, funcionais e bem estruturadas.
+</p>
+
+<br>
+
 <a href="https://trashyukon9.github.io/DanielWn.site/">
-  <img src="https://img.shields.io/badge/PORTFÓLIO-0D1117?style=for-the-badge&logo=githubpages&logoColor=299452" alt="Portfólio">
+  <img
+    src="https://img.shields.io/badge/PORTFÓLIO-0D1117?style=for-the-badge&logo=githubpages&logoColor=299452"
+    alt="Portfólio"
+  >
 </a>
 
 <a href="https://www.linkedin.com/in/winicius-daniel-89b4a7279/">
-  <img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=299452" alt="LinkedIn">
+  <img
+    src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=299452"
+    alt="LinkedIn"
+  >
 </a>
 
 <a href="https://github.com/TrashYukon9">
-  <img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=299452" alt="GitHub">
+  <img
+    src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=299452"
+    alt="GitHub"
+  >
 </a>
 
 <br><br>
