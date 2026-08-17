@@ -206,3 +206,64 @@ const winicius = {
 />
 
 </div>
+
+<br>
+
+---
+
+## 📈 Gráfico de Atividade
+
+<div align="center">
+
+<img
+  width="100%"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=TrashYukon9&bg_color=0D1117&color=FFFFFF&line=299452&point=FFFFFF&area=true&area_color=299452&hide_border=true"
+/>
+
+</div>
+
+<br>
+
+---
+
+## 🌐 Contato
+
+<div align="center">
+
+<p>
+  Quer conversar sobre tecnologia, projetos ou oportunidades?
+</p>
+
+<br>
+
+<a href="https://www.linkedin.com/in/winicius-daniel-89b4a7279/">
+  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=299452">
+</a>
+
+<a href="https://trashyukon9.github.io/DanielWn.site/">
+  <img src="https://img.shields.io/badge/Portfólio-0D1117?style=for-the-badge&logo=githubpages&logoColor=299452">
+</a>
+
+<a href="https://instagram.com/tyk.daniwn">
+  <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=299452">
+</a>
+
+<a href="https://github.com/TrashYukon9">
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=299452">
+</a>
+
+<br><br>
+
+---
+
+<sub>
+  Desenvolvido por <strong>Winicius Daniel</strong>
+</sub>
+
+<br>
+
+<sub>
+  💚 Sempre aprendendo, criando e evoluindo.
+</sub>
+
+</div>
