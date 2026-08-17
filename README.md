@@ -182,12 +182,12 @@ while (winicius.estáAprendendo) {
 
 ---
 
-## 🌐 Contato
+## 🌐 Vamos nos conectar?
 
 <div align="center">
 
 <p>
-  Quer conversar sobre tecnologia, projetos ou oportunidades?
+  Estou sempre aberto a novas conexões, projetos e oportunidades na área de tecnologia.
 </p>
 
 <br>
@@ -204,22 +204,22 @@ while (winicius.estáAprendendo) {
   <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=299452">
 </a>
 
+<br><br>
+
 <a href="https://github.com/TrashYukon9">
-  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=299452">
+  <img src="https://komarev.com/ghpvc/?username=TrashYukon9&label=VISITAS+AO+PERFIL&color=299452&style=flat-square">
 </a>
 
 <br><br>
 
 ---
 
-<sub>
-  Desenvolvido por <strong>Winicius Daniel</strong>
-</sub>
+<sub>💚 Desenvolvido por <strong>Winicius Daniel</strong></sub>
 
 <br>
 
 <sub>
-  💚 Sempre aprendendo, criando e evoluindo.
+  <code>while (alive) { learn(); code(); improve(); }</code>
 </sub>
 
 </div>
