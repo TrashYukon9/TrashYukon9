@@ -29,21 +29,21 @@
   <img
     src="https://img.shields.io/badge/PORTFÓLIO-0D1117?style=for-the-badge&logo=githubpages&logoColor=299452"
     alt="Portfólio"
-  >
+  />
 </a>
 
 <a href="https://www.linkedin.com/in/winicius-daniel-89b4a7279/">
   <img
     src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=299452"
     alt="LinkedIn"
-  >
+  />
 </a>
 
 <a href="https://github.com/TrashYukon9">
   <img
     src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=299452"
     alt="GitHub"
-  >
+  />
 </a>
 
 <br><br>
@@ -285,15 +285,15 @@ rotina();
   <source
     media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/TrashYukon9/TrashYukon9/gh-pages/github-contribution-grid-snake-dark.svg"
-  >
+  />
   <source
     media="(prefers-color-scheme: light)"
     srcset="https://raw.githubusercontent.com/TrashYukon9/TrashYukon9/gh-pages/github-contribution-grid-snake.svg"
-  >
+  />
   <img
     src="https://raw.githubusercontent.com/TrashYukon9/TrashYukon9/gh-pages/github-contribution-grid-snake-dark.svg"
     alt="Animação das contribuições do GitHub"
-  >
+  />
 </picture>
 
 <br><br>
@@ -314,9 +314,7 @@ rotina();
 
 <div align="center">
 
-<p>
-  Vamos construir algo juntos?
-</p>
+<h3>Vamos construir algo juntos?</h3>
 
 <p>
   Estou aberto a novas conexões, projetos e oportunidades na área de tecnologia.
@@ -328,21 +326,21 @@ rotina();
   <img
     src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=299452"
     alt="LinkedIn"
-  >
+  />
 </a>
 
 <a href="https://trashyukon9.github.io/DanielWn.site/">
   <img
-    src="https://img.shields.io/badge=PORTFÓLIO-0D1117?style=for-the-badge&logo=githubpages&logoColor=299452"
+    src="https://img.shields.io/badge/PORTFÓLIO-0D1117?style=for-the-badge&logo=githubpages&logoColor=299452"
     alt="Portfólio"
-  >
+  />
 </a>
 
 <a href="https://instagram.com/tyk.daniwn">
   <img
     src="https://img.shields.io/badge/INSTAGRAM-0D1117?style=for-the-badge&logo=instagram&logoColor=299452"
     alt="Instagram"
-  >
+  />
 </a>
 
 <br><br>
