@@ -181,6 +181,21 @@ while (winicius.estáAprendendo) {
 
 ---
 
+---
+
+## 🐍 Contribuições
+
+<div align="center">
+
+<img
+  src="https://raw.githubusercontent.com/TrashYukon9/TrashYukon9/output/github-contribution-grid-snake-dark.svg"
+  alt="Snake animation"
+/>
+
+</div>
+
+<br>
+
 ## 🌐 Vamos nos conectar?
 
 <div align="center">
