@@ -1,16 +1,15 @@
 <div align="center">
 
-# Olá! Eu sou Winicius Daniel
+# 👋 Olá! Eu sou Winicius Daniel
 
 ### Desenvolvedor de Software
 
 <p>
-  Estudante e desenvolvedor, focado em programação e criação de aplicações.
+  Desenvolvedor focado em criar aplicações modernas, funcionais e bem estruturadas.
 </p>
 
 <p>
-  Atualmente focado em desenvolvimento Web e aprimorando meus conhecimentos em
-  <strong>JavaScript, React, Python e Java.</strong>
+  Atualmente estudando <strong>Ciência da Computação</strong> e aprofundando meus conhecimentos em desenvolvimento Web e Software.
 </p>
 
 <br>
@@ -23,7 +22,21 @@
   <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=299452">
 </a>
 
+<a href="https://github.com/TrashYukon9">
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=299452">
+</a>
+
+<br><br>
+
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=299452&center=true&vCenter=true&width=500&lines=Desenvolvedor+de+Software;React+%7C+JavaScript+%7C+Python+%7C+Java;Sempre+aprendendo+e+criando"
+/>
+
 </div>
+
+<br>
+
+---
 <br>
 
 ---
