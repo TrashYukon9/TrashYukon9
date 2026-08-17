@@ -275,10 +275,32 @@ rotina();
 
 <div align="center">
 
-<img
-  src="https://raw.githubusercontent.com/TrashYukon9/TrashYukon9/gh-pages/github-contribution-grid-snake-dark.svg"
-  alt="Snake animation"
-/>
+<p>
+  Construindo um pouco todos os dias. 🐍
+</p>
+
+<br>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/TrashYukon9/TrashYukon9/gh-pages/github-contribution-grid-snake-dark.svg"
+  >
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/TrashYukon9/TrashYukon9/gh-pages/github-contribution-grid-snake.svg"
+  >
+  <img
+    src="https://raw.githubusercontent.com/TrashYukon9/TrashYukon9/gh-pages/github-contribution-grid-snake-dark.svg"
+    alt="Animação das contribuições do GitHub"
+  >
+</picture>
+
+<br><br>
+
+<sub>
+  <code>construir • aprender • contribuir • repetir</code>
+</sub>
 
 </div>
 
