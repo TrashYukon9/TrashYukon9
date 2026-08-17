@@ -1,0 +1,80 @@
+<svg
+  width="1000"
+  height="190"
+  viewBox="0 0 1000 190"
+  xmlns="http://www.w3.org/2000/svg"
+>
+
+  <rect
+    x="1"
+    y="1"
+    width="998"
+    height="188"
+    rx="12"
+    fill="#0D1117"
+    stroke="#299452"
+    stroke-width="2"
+  />
+
+  <!-- Terminal controls -->
+
+  <circle cx="30" cy="25" r="5" fill="#299452" opacity="0.35"/>
+  <circle cx="50" cy="25" r="5" fill="#299452" opacity="0.65"/>
+  <circle cx="70" cy="25" r="5" fill="#299452"/>
+
+  <!-- Terminal title -->
+
+  <text
+    x="965"
+    y="30"
+    text-anchor="end"
+    fill="#8B949E"
+    font-family="monospace"
+    font-size="14"
+  >
+    winicius@github
+  </text>
+
+  <!-- Name -->
+
+  <text
+    x="500"
+    y="88"
+    text-anchor="middle"
+    fill="#FFFFFF"
+    font-family="monospace"
+    font-size="34"
+    font-weight="bold"
+    letter-spacing="3"
+  >
+    WINICIUS DANIEL
+  </text>
+
+  <!-- Role -->
+
+  <text
+    x="500"
+    y="120"
+    text-anchor="middle"
+    fill="#299452"
+    font-family="monospace"
+    font-size="17"
+    letter-spacing="4"
+  >
+    SOFTWARE DEVELOPER
+  </text>
+
+  <!-- Command -->
+
+  <text
+    x="500"
+    y="157"
+    text-anchor="middle"
+    fill="#8B949E"
+    font-family="monospace"
+    font-size="15"
+  >
+    &gt; building things with code_
+  </text>
+
+</svg>
