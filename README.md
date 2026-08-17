@@ -181,17 +181,20 @@ while (winicius.estáAprendendo) {
 
 ---
 
----
-
-## 🐍 Contribuições
+## 🐍 Minhas Contribuições
 
 <div align="center">
 
 <img
-  src="https://raw.githubusercontent.com/TrashYukon9/TrashYukon9/output/github-contribution-grid-snake-dark.svg"
+  src="https://raw.githubusercontent.com/TrashYukon9/TrashYukon9/gh-pages/github-contribution-grid-snake-dark.svg"
   alt="Snake animation"
 />
 
+</div>
+
+<br>
+
+---
 </div>
 
 <br>
