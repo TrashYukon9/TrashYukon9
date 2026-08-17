@@ -24,3 +24,57 @@
 </a>
 
 </div>
+<br>
+
+---
+
+## 👨‍💻 Sobre mim
+
+```javascript
+const winicius = {
+  localização: "São Paulo, Brasil",
+  área: "Desenvolvimento de Software",
+  formação: "Ciência da Computação",
+
+  interesses: [
+    "Desenvolvimento Web",
+    "Engenharia de Software",
+    "Desenvolvimento Backend",
+    "Novas tecnologias"
+  ],
+
+  estudandoAtualmente: [
+    "JavaScript",
+    "React",
+    "Python",
+    "Java"
+  ],
+
+  objetivo: "Evoluir como desenvolvedor e transformar ideias em código."
+};
+
+
+### 👨‍💻 Sobre mim
+
+```javascript
+const winicius = {
+  localização: "São Paulo, Brasil",
+  área: "Desenvolvimento de Software",
+  formação: "Ciência da Computação",
+
+  interesses: [
+    "Desenvolvimento Web",
+    "Engenharia de Software",
+    "Desenvolvimento Backend",
+    "Novas tecnologias"
+  ],
+
+  estudandoAtualmente: [
+    "JavaScript",
+    "React",
+    "Python",
+    "Java"
+  ],
+
+  objetivo: "Evoluir como desenvolvedor e transformar ideias em código."
+};
