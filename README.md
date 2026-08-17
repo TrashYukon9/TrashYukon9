@@ -46,14 +46,12 @@
   />
 </a>
 
-<br><br>
+</div>
 
-<img
-  width="100%"
-  src="https://capsule-render.vercel.app/api?type=rect&height=2&color=299452"
-  alt=""
-/>
+<br>
 
+<div align="center">
+  <img src="./assets/divider.svg" width="100%" alt="">
 </div>
 
 <br>
@@ -100,7 +98,9 @@ rotina();
 
 <br>
 
----
+<div align="center">
+  <img src="./assets/divider.svg" width="100%" alt="">
+</div>
 
 <br>
 
@@ -137,7 +137,9 @@ rotina();
 
 <br>
 
----
+<div align="center">
+  <img src="./assets/divider.svg" width="100%" alt="">
+</div>
 
 <br>
 
@@ -193,7 +195,9 @@ rotina();
 
 <br>
 
----
+<div align="center">
+  <img src="./assets/divider.svg" width="100%" alt="">
+</div>
 
 <br>
 
@@ -237,7 +241,9 @@ rotina();
 
 <br>
 
----
+<div align="center">
+  <img src="./assets/divider.svg" width="100%" alt="">
+</div>
 
 <br>
 
@@ -267,7 +273,9 @@ rotina();
 
 <br>
 
----
+<div align="center">
+  <img src="./assets/divider.svg" width="100%" alt="">
+</div>
 
 <br>
 
@@ -286,10 +294,12 @@ rotina();
     media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/TrashYukon9/TrashYukon9/gh-pages/github-contribution-grid-snake-dark.svg"
   />
+
   <source
     media="(prefers-color-scheme: light)"
     srcset="https://raw.githubusercontent.com/TrashYukon9/TrashYukon9/gh-pages/github-contribution-grid-snake.svg"
   />
+
   <img
     src="https://raw.githubusercontent.com/TrashYukon9/TrashYukon9/gh-pages/github-contribution-grid-snake-dark.svg"
     alt="Animação das contribuições do GitHub"
@@ -306,7 +316,9 @@ rotina();
 
 <br>
 
----
+<div align="center">
+  <img src="./assets/divider.svg" width="100%" alt="">
+</div>
 
 <br>
 
@@ -350,13 +362,11 @@ rotina();
   alt="Visualizações do perfil"
 />
 
-<br><br><br>
+<br><br>
 
-<img
-  width="100%"
-  src="https://capsule-render.vercel.app/api?type=rect&height=2&color=299452"
-  alt=""
-/>
+<div align="center">
+  <img src="./assets/divider.svg" width="100%" alt="">
+</div>
 
 <br>
 
