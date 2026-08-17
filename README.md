@@ -174,3 +174,35 @@ const winicius = {
 </table>
 
 </div>
+
+
+
+<br>
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+
+<img
+  height="180"
+  src="https://github-readme-stats.vercel.app/api?username=TrashYukon9&show_icons=true&hide_border=true&bg_color=0D1117&title_color=299452&icon_color=299452&text_color=FFFFFF&locale=pt-br"
+/>
+
+<img
+  height="180"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrashYukon9&layout=compact&hide_border=true&bg_color=0D1117&title_color=299452&text_color=FFFFFF&locale=pt-br"
+/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img
+  src="https://streak-stats.demolab.com?user=TrashYukon9&theme=dark&hide_border=true&background=0D1117&ring=299452&fire=299452&currStreakLabel=299452&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E"
+/>
+
+</div>
