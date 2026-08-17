@@ -1,8 +1,12 @@
 <div align="center">
 
-<h1>Winicius Daniel</h1>
+<img
+  width="100%"
+  src="./assets/header.svg"
+  alt="Winicius Daniel - Software Developer"
+/>
 
-<h3>Desenvolvedor de Software</h3>
+<br>
 
 <p>
   🎓 Ciência da Computação &nbsp; • &nbsp;
