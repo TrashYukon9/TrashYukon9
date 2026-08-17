@@ -167,14 +167,13 @@ while (winicius.estáAprendendo) {
 <br>
 
 ---
-
 ## 📈 Gráfico de Atividade
 
 <div align="center">
 
 <img
   width="100%"
-  src="https://github-readme-activity-graph.vercel.app/graph?username=TrashYukon9&bg_color=0D1117&color=FFFFFF&line=299452&point=FFFFFF&area=true&area_color=299452&hide_border=true"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=TrashYukon9&bg_color=0D1117&color=FFFFFF&line=299452&point=FFFFFF&area=true&area_color=299452&hide_border=true&custom_title=Contribuições%20de%20Winicius"
 />
 
 </div>
