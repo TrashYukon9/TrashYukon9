@@ -201,8 +201,6 @@ rotina();
   <code>mais projetos em desenvolvimento...</code>
 </sub>
 
-</div>
-
 <br><br>
 
 <img
