@@ -105,3 +105,72 @@ const winicius = {
 <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
 
 </div>
+
+
+<br>
+
+---
+
+## 🚀 Projetos em Destaque
+
+<div align="center">
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+<h3 align="center">✅ Todo List</h3>
+
+<p align="center">
+  Aplicação para gerenciamento e organização de tarefas desenvolvida com React.
+</p>
+
+<br>
+
+<p align="center">
+  <strong>React • JavaScript • CSS • Vite</strong>
+</p>
+
+<p align="center">
+  <a href="https://trashyukon9.github.io/TodoList/">
+    <img src="https://img.shields.io/badge/Ver%20Projeto-0D1117?style=for-the-badge&logo=githubpages&logoColor=299452">
+  </a>
+
+  <a href="https://github.com/TrashYukon9/TodoList">
+    <img src="https://img.shields.io/badge/Repositório-0D1117?style=for-the-badge&logo=github&logoColor=299452">
+  </a>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3 align="center">🌐 Portfólio</h3>
+
+<p align="center">
+  Meu portfólio pessoal, criado para apresentar meus projetos, habilidades e evolução como desenvolvedor.
+</p>
+
+<br>
+
+<p align="center">
+  <strong>HTML • CSS • JavaScript</strong>
+</p>
+
+<p align="center">
+  <a href="https://trashyukon9.github.io/DanielWn.site/">
+    <img src="https://img.shields.io/badge/Ver%20Projeto-0D1117?style=for-the-badge&logo=githubpages&logoColor=299452">
+  </a>
+
+  <a href="https://github.com/TrashYukon9/DanielWn.site">
+    <img src="https://img.shields.io/badge/Repositório-0D1117?style=for-the-badge&logo=github&logoColor=299452">
+  </a>
+</p>
+
+</td>
+
+</tr>
+</table>
+
+</div>
