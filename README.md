@@ -2,7 +2,7 @@
 
 <img
   width="100%"
-  src="./assets/header.svg"
+  src="./assets/header-v2.svg"
   alt="Winicius Daniel - Software Developer"
 />
 
