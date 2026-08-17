@@ -161,41 +161,86 @@ rotina();
 
 <br>
 
-<div align="center">
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+<h3 align="center">TODO LIST</h3>
+
+<p align="center">
+  Aplicação para gerenciamento de tarefas com foco em organização e produtividade.
+</p>
+
+<p align="center">
+  <code>React</code>
+  <code>JavaScript</code>
+  <code>CSS</code>
+  <code>Vite</code>
+</p>
+
+<br>
+
+<p align="center">
 
 <a href="https://github.com/TrashYukon9/TodoList">
   <img
-    width="48%"
-    src="https://raw.githubusercontent.com/TrashYukon9/TrashYukon9/main/assets/project-todo.svg"
-    alt="Todo List"
+    src="https://img.shields.io/badge/CÓDIGO-0D1117?style=for-the-badge&logo=github&logoColor=299452"
+    alt="Código Todo List"
   />
 </a>
-
-<a href="https://github.com/TrashYukon9/DanielWn.site">
-  <img
-    width="48%"
-    src="https://raw.githubusercontent.com/TrashYukon9/TrashYukon9/main/assets/project-portfolio.svg"
-    alt="Portfólio"
-  />
-</a>
-
-<br><br>
 
 <a href="https://trashyukon9.github.io/TodoList/">
   <img
-    src="https://img.shields.io/badge/TODO%20LIST-0D1117?style=for-the-badge&logo=react&logoColor=299452"
-    alt="Abrir Todo List"
+    src="https://img.shields.io/badge/DEMO-0D1117?style=for-the-badge&logo=react&logoColor=299452"
+    alt="Demo Todo List"
+  />
+</a>
+
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3 align="center">PERSONAL PORTFOLIO</h3>
+
+<p align="center">
+  Portfólio pessoal para apresentar projetos, habilidades e minha evolução como desenvolvedor.
+</p>
+
+<p align="center">
+  <code>HTML</code>
+  <code>CSS</code>
+  <code>JavaScript</code>
+</p>
+
+<br>
+
+<p align="center">
+
+<a href="https://github.com/TrashYukon9/DanielWn.site">
+  <img
+    src="https://img.shields.io/badge/CÓDIGO-0D1117?style=for-the-badge&logo=github&logoColor=299452"
+    alt="Código Portfólio"
   />
 </a>
 
 <a href="https://trashyukon9.github.io/DanielWn.site/">
   <img
-    src="https://img.shields.io/badge/PORTFÓLIO-0D1117?style=for-the-badge&logo=githubpages&logoColor=299452"
-    alt="Abrir Portfólio"
+    src="https://img.shields.io/badge/DEMO-0D1117?style=for-the-badge&logo=githubpages&logoColor=299452"
+    alt="Demo Portfólio"
   />
 </a>
 
-<br><br>
+</p>
+
+</td>
+
+</tr>
+</table>
+
+<div align="center">
 
 <sub>
   <code>mais projetos em desenvolvimento...</code>
