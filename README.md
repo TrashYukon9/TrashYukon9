@@ -99,65 +99,39 @@ while (winicius.estáAprendendo) {
 
 <div align="center">
 
-<table>
-<tr>
+<a href="https://github.com/TrashYukon9/TodoList">
+  <img
+    width="48%"
+    src="https://github-readme-stats.vercel.app/api/pin/?username=TrashYukon9&repo=TodoList&hide_border=true&bg_color=0D1117&title_color=299452&text_color=FFFFFF&icon_color=299452"
+  />
+</a>
 
-<td width="50%" valign="top">
-
-<h3 align="center">✅ Todo List</h3>
-
-<p align="center">
-  Aplicação para gerenciamento e organização de tarefas desenvolvida com React.
-</p>
-
-<br>
-
-<p align="center">
-  <strong>React • JavaScript • CSS • Vite</strong>
-</p>
-
-<p align="center">
-  <a href="https://trashyukon9.github.io/TodoList/">
-    <img src="https://img.shields.io/badge/Ver%20Projeto-0D1117?style=for-the-badge&logo=githubpages&logoColor=299452">
-  </a>
-
-  <a href="https://github.com/TrashYukon9/TodoList">
-    <img src="https://img.shields.io/badge/Repositório-0D1117?style=for-the-badge&logo=github&logoColor=299452">
-  </a>
-</p>
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3 align="center">🌐 Portfólio</h3>
-
-<p align="center">
-  Meu portfólio pessoal, criado para apresentar meus projetos, habilidades e evolução como desenvolvedor.
-</p>
-
-<br>
-
-<p align="center">
-  <strong>HTML • CSS • JavaScript</strong>
-</p>
-
-<p align="center">
-  <a href="https://trashyukon9.github.io/DanielWn.site/">
-    <img src="https://img.shields.io/badge/Ver%20Projeto-0D1117?style=for-the-badge&logo=githubpages&logoColor=299452">
-  </a>
-
-  <a href="https://github.com/TrashYukon9/DanielWn.site">
-    <img src="https://img.shields.io/badge/Repositório-0D1117?style=for-the-badge&logo=github&logoColor=299452">
-  </a>
-</p>
-
-</td>
-
-</tr>
-</table>
+<a href="https://github.com/TrashYukon9/DanielWn.site">
+  <img
+    width="48%"
+    src="https://github-readme-stats.vercel.app/api/pin/?username=TrashYukon9&repo=DanielWn.site&hide_border=true&bg_color=0D1117&title_color=299452&text_color=FFFFFF&icon_color=299452"
+  />
+</a>
 
 </div>
+
+<br>
+
+<div align="center">
+
+<a href="https://trashyukon9.github.io/TodoList/">
+  <img src="https://img.shields.io/badge/Abrir%20Todo%20List-0D1117?style=for-the-badge&logo=react&logoColor=299452">
+</a>
+
+<a href="https://trashyukon9.github.io/DanielWn.site/">
+  <img src="https://img.shields.io/badge/Abrir%20Portfólio-0D1117?style=for-the-badge&logo=githubpages&logoColor=299452">
+</a>
+
+</div>
+
+<br>
+
+---
 
 
 
