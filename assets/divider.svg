@@ -4,28 +4,15 @@
   viewBox="0 0 1000 30"
   xmlns="http://www.w3.org/2000/svg"
 >
-  <defs>
-
-    <linearGradient id="leftLine" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#299452" stop-opacity="0"/>
-      <stop offset="100%" stop-color="#299452" stop-opacity="0.9"/>
-    </linearGradient>
-
-    <linearGradient id="rightLine" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#299452" stop-opacity="0.9"/>
-      <stop offset="100%" stop-color="#299452" stop-opacity="0"/>
-    </linearGradient>
-
-  </defs>
-
   <!-- Linha esquerda -->
   <rect
     x="50"
     y="14"
-    width="435"
+    width="430"
     height="2"
     rx="1"
-    fill="url(#leftLine)"
+    fill="#299452"
+    opacity="0.55"
   />
 
   <!-- Ponto central -->
@@ -38,12 +25,12 @@
 
   <!-- Linha direita -->
   <rect
-    x="515"
+    x="520"
     y="14"
-    width="435"
+    width="430"
     height="2"
     rx="1"
-    fill="url(#rightLine)"
+    fill="#299452"
+    opacity="0.55"
   />
-
 </svg>
