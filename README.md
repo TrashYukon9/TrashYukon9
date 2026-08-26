@@ -277,7 +277,6 @@ rotina();
 </tr>
 </tr>
 </table>
-</table>
 
 <div align="center">
 
