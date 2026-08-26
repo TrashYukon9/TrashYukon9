@@ -164,7 +164,7 @@ rotina();
 <table>
 <tr>
 
-<td width="50%" valign="top">
+<td width="50%" valign="bottom">
 
 <h3 align="center">TODO LIST</h3>
 
