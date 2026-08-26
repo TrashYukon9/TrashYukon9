@@ -164,7 +164,7 @@ rotina();
 <table>
 <tr>
 
-<td width="50%" valign="bottom">
+<td width="50%" valign="top">
 
 <h3 align="center">TODO LIST</h3>
 
@@ -236,7 +236,7 @@ rotina();
 </p>
 </td>
 
-<td width="50%" valign="top">
+<td width="50%" valign="bottom">
 <h3 align="center">CUBO MÁGICO INTERATIVO</h3>
 
 <p align="center">
