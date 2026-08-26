@@ -235,6 +235,40 @@ rotina();
 
 </p>
 
+
+<h3 align="center">CUBO MÁGICO INTERATIVO</h3>
+
+<p align="center">
+  Experiência web interativa 3D de um cubo mágico virtual com dois modos jogáveis.
+</p>
+
+<p align="center">
+  <code>React</code>
+  <code>TypeScript</code>
+  <code>CSS</code>
+</p>
+
+<br>
+
+<p align="center">
+
+<a href="https://trashyukon9.github.io/Cube-Lab/">
+  <img
+    src="https://img.shields.io/badge/CÓDIGO-0D1117?style=for-the-badge&logo=github&logoColor=299452"
+    alt="Código Cubo"
+  />
+</a>
+
+<a href="https://trashyukon9.github.io/Cube-Lab/">
+  <img
+    src="https://img.shields.io/badge/DEMO-0D1117?style=for-the-badge&logo=githubpages&logoColor=299452"
+    alt="Demo Cubo mágico"
+  />
+</a>
+
+</p>
+
+
 </td>
 
 </tr>
