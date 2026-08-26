@@ -201,7 +201,7 @@ rotina();
 
 </td>
 
-<td width="50%" valign="top">
+<td width="70%" valign="top">
 
 <h3 align="center">PERSONAL PORTFOLIO</h3>
 
