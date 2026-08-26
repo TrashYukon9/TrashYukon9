@@ -242,7 +242,7 @@ rotina();
 <h3 align="center">CUBO MÁGICO INTERATIVO</h3>
 
 <p align="center">
-  Experiência web interativa 3D de um cubo mágico virtual com dois modos jogáveis.
+  Experiência web interativa 3D de um cubo mágico virtual <br> com dois modos jogáveis.
 </p>
 
 <p align="center">
