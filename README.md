@@ -201,7 +201,8 @@ rotina();
 
 </td>
 
-<td width="100%" valign="top">
+
+<td width="50%" valign="top">
 
 <h3 align="center">PERSONAL PORTFOLIO</h3>
 
@@ -234,15 +235,21 @@ rotina();
 </a>
 
 </p>
+
 </td>
 
-<table>
+</tr>
+
+
 <tr>
-<td width="50%" valign="bottom">
+
+<td width="50%" valign="top">
+
 <h3 align="center">CUBO MÁGICO INTERATIVO</h3>
 
 <p align="center">
-  Experiência web interativa 3D de um cubo mágico virtual <br> com dois modos jogáveis.
+  Experiência web interativa 3D de um cubo mágico virtual<br>
+  com dois modos jogáveis.
 </p>
 
 <p align="center">
@@ -255,7 +262,7 @@ rotina();
 
 <p align="center">
 
-<a href="https://trashyukon9.github.io/Cube-Lab/">
+<a href="https://github.com/TrashYukon9/Cube-Lab">
   <img
     src="https://img.shields.io/badge/CÓDIGO-0D1117?style=for-the-badge&logo=github&logoColor=299452"
     alt="Código Cubo"
@@ -271,10 +278,25 @@ rotina();
 
 </p>
 
+</td>
+
+
+<td width="50%" valign="top">
+
+<h3 align="center">EM BREVE</h3>
+
+<p align="center">
+  Novo projeto em desenvolvimento.
+</p>
+
+<p align="center">
+  <code>...</code>
+</p>
+
+<br>
 
 </td>
 
-</tr>
 </tr>
 </table>
 
