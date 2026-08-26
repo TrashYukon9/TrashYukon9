@@ -234,8 +234,9 @@ rotina();
 </a>
 
 </p>
+</td>
 
-
+<td width="50%" valign="top">
 <h3 align="center">CUBO MÁGICO INTERATIVO</h3>
 
 <p align="center">
