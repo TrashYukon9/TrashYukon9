@@ -81,6 +81,7 @@ const winicius = {
     "Desenvolvimento Web",
     "Aplicações úteis",
     "Interfaces modernas",
+    "Inteligência artificial",
     "Resolução de problemas"
   ]
 };
