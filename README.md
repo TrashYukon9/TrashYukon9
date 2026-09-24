@@ -73,7 +73,7 @@ const winicius = {
 
   atualmente: {
     estudando: ["React", "JavaScript", "Python", "Java"],
-    explorando: ["Backend", "Engenharia de Software"],
+    explorando: ["Backend", "Frontend", "Engenharia de Software", "Aplicações" ],
     construindo: "Projetos para evoluir como desenvolvedor"
   },
 
