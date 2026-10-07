@@ -365,7 +365,7 @@ rotina();
 
 <img
   width="100%"
-  src="https://github-readme-activity-graph.vercel.app/graph?username=TrashYukon9&bg_color=0D1117&color=FFFFFF&line=299452&point=299452&area=true&area_color=299452&hide_border=true&custom_title=Gráfico%20de%20Contribuições&radius=AQUI"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=TrashYukon9&bg_color=0D1117&color=FFFFFF&line=299452&point=299452&area=true&area_color=299452&hide_border=true&custom_title=Gráfico%20de%20Contribuições&radius=8"
   alt="Gráfico de Atividade"
 />
 
