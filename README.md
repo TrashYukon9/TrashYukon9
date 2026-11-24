@@ -228,7 +228,7 @@ rotina();
   />
 </a>
 
-<a href="https://trashyukon9.github.io/DanielWn.site/">
+<a href="https://danielwnsite.vercel.app/">
   <img
     src="https://img.shields.io/badge/DEMO-0D1117?style=for-the-badge&logo=githubpages&logoColor=299452"
     alt="Demo Portfólio"
@@ -451,7 +451,7 @@ rotina();
   />
 </a>
 
-<a href="https://trashyukon9.github.io/DanielWn.site/">
+<a href="https://danielwnsite.vercel.app/">
   <img
     src="https://img.shields.io/badge/PORTFÓLIO-0D1117?style=for-the-badge&logo=githubpages&logoColor=299452"
     alt="Portfólio"
