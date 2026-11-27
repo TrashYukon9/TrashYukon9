@@ -270,7 +270,7 @@ rotina();
   />
 </a>
 
-<a href="https://trashyukon9.github.io/Cube-Lab/">
+<a href="https://cube-lab-wn.vercel.app/">
   <img
     src="https://img.shields.io/badge/DEMO-0D1117?style=for-the-badge&logo=githubpages&logoColor=299452"
     alt="Demo Cubo mágico"
