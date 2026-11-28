@@ -43,7 +43,7 @@
   />
 </a>
 
-<a href="https://github.com/TrashYukon9">
+<a href="https://github.com/WnDaniel9">
   <img
     src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=299452"
     alt="GitHub"
